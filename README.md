@@ -1,3 +1,4 @@
 # prueba_binder
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.ovh2.mybinder.org/user/i82egjur-prueba_binder-ks3teizx/doc/tree/prueba_binder.ipynb)
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/i82egjur/prueba_binder/master?labpath=prueba_binder.ipynb)
 
